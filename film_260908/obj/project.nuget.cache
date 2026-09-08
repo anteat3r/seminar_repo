@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5lJww/33oc=",
+  "success": true,
+  "projectFilePath": "/home/rosta/doppler/ivt/seminar/film_260908/film_260908.csproj",
+  "expectedPackageFiles": [
+    "/home/rosta/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

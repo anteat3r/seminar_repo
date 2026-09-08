@@ -1,0 +1,14 @@
+/home/rosta/doppler/ivt/seminar/film_260908/bin/Debug/net10.0/film_260908
+/home/rosta/doppler/ivt/seminar/film_260908/bin/Debug/net10.0/film_260908.deps.json
+/home/rosta/doppler/ivt/seminar/film_260908/bin/Debug/net10.0/film_260908.runtimeconfig.json
+/home/rosta/doppler/ivt/seminar/film_260908/bin/Debug/net10.0/film_260908.dll
+/home/rosta/doppler/ivt/seminar/film_260908/bin/Debug/net10.0/film_260908.pdb
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/film_260908.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/film_260908.AssemblyInfoInputs.cache
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/film_260908.AssemblyInfo.cs
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/film_260908.csproj.CoreCompileInputs.cache
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/film_260908.dll
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/refint/film_260908.dll
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/film_260908.pdb
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/film_260908.genruntimeconfig.cache
+/home/rosta/doppler/ivt/seminar/film_260908/obj/Debug/net10.0/ref/film_260908.dll
