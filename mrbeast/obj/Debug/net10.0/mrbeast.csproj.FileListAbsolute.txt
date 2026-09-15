@@ -1,0 +1,15 @@
+/home/rosta/doppler/seminar_repo/mrbeast/bin/Debug/net10.0/mrbeast
+/home/rosta/doppler/seminar_repo/mrbeast/bin/Debug/net10.0/mrbeast.deps.json
+/home/rosta/doppler/seminar_repo/mrbeast/bin/Debug/net10.0/mrbeast.runtimeconfig.json
+/home/rosta/doppler/seminar_repo/mrbeast/bin/Debug/net10.0/mrbeast.dll
+/home/rosta/doppler/seminar_repo/mrbeast/bin/Debug/net10.0/mrbeast.pdb
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.AssemblyInfoInputs.cache
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.AssemblyInfo.cs
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.csproj.CoreCompileInputs.cache
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.sourcelink.json
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.dll
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/refint/mrbeast.dll
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.pdb
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/mrbeast.genruntimeconfig.cache
+/home/rosta/doppler/seminar_repo/mrbeast/obj/Debug/net10.0/ref/mrbeast.dll
