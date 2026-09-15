@@ -6,15 +6,13 @@
 
     List<List<Char>> field = [];
 
-    List<Int32> diddyblud = [0, 0, 0]; // x y dir
+    List<Int32> diddyblud = []; // x y dir
 
     for (int i = 0; i < height; i++) {
       List<Char> row = (Console.ReadLine() ?? "").ToCharArray().ToList();
       List<Char> bludi = row.FindAll((c) => "<>^v".Contains(c));
       if (bludi.Count() > 0) {
-        diddyblud[0] = row.IndexOf(bludi.First());
-        diddyblud[1] = i;
-        diddyblud[2] = ">^<v".IndexOf(bludi.First());
+        diddyblud = [row.IndexOf(bludi.First()), i, ">^<v".IndexOf(bludi.First())];
         row[diddyblud[0]] = '.';
       }
       field.Add(row);
