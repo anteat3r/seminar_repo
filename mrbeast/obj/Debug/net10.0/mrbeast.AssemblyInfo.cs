@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mrbeast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69f1d2e4b90f5bff28926ad1a93f528ef8559e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d05f9d71575821964e0669b95bba0e0a83e6b8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("mrbeast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mrbeast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
