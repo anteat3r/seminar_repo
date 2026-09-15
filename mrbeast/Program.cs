@@ -1,4 +1,5 @@
 ﻿class MrBeast {
+  
   public static void Main(String[] args) {
     int width = (int)Convert.ToInt64(Console.ReadLine());
     int height = (int)Convert.ToInt64(Console.ReadLine());
