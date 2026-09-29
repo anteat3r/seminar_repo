@@ -1,0 +1,15 @@
+/home/rosta/doppler/seminar_repo/parovani/bin/Debug/net10.0/parovani
+/home/rosta/doppler/seminar_repo/parovani/bin/Debug/net10.0/parovani.deps.json
+/home/rosta/doppler/seminar_repo/parovani/bin/Debug/net10.0/parovani.runtimeconfig.json
+/home/rosta/doppler/seminar_repo/parovani/bin/Debug/net10.0/parovani.dll
+/home/rosta/doppler/seminar_repo/parovani/bin/Debug/net10.0/parovani.pdb
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.AssemblyInfoInputs.cache
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.AssemblyInfo.cs
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.csproj.CoreCompileInputs.cache
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.sourcelink.json
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.dll
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/refint/parovani.dll
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.pdb
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/parovani.genruntimeconfig.cache
+/home/rosta/doppler/seminar_repo/parovani/obj/Debug/net10.0/ref/parovani.dll
