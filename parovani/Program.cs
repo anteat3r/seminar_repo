@@ -5,16 +5,16 @@
     {
 
         public Blud? diddler { get; set; }
-        public List<Blud> epsteinList { get; set; }
+        public List<Blud> epsteinQueue { get; set; }
 
         public Blud(List<Blud> epsteinList, Blud? diddler)
         {
-            this.epsteinList = epsteinList;
+            this.epsteinQueue = epsteinList;
             this.diddler = diddler;
         }
 
         public void VaporizeDiddy() { diddler = null; }
-        public int DiddlerIndex() => diddler == null ? int.MaxValue : epsteinList.IndexOf(diddler);
+        public int DiddlerIndex() => diddler == null ? int.MaxValue : epsteinQueue.IndexOf(diddler);
     }
 
     class Gang
@@ -36,9 +36,9 @@
             {
                 Blud lindsayClancy = epsteinList[0];
                 epsteinList.Remove(lindsayClancy);
-                foreach (Blud diddy in lindsayClancy.epsteinList)
+                foreach (Blud diddy in lindsayClancy.epsteinQueue)
                 {
-                    int freakyIndex = diddy.epsteinList.IndexOf(lindsayClancy);
+                    int freakyIndex = diddy.epsteinQueue.IndexOf(lindsayClancy);
                     int oldFreakyIndex = diddy.DiddlerIndex();
                     if (freakyIndex < oldFreakyIndex)
                     {
@@ -65,10 +65,10 @@
             gang.men = Enumerable.Range(0, numDiddlers).Select(_ => new Blud([], null)).ToList();
 
             for (int i = 0; i < numDiddlers; i++)
-                gang.dishwahers[i].epsteinList = (Console.ReadLine() ?? "").Split(" ").Select(x => gang.men[Convert.ToInt32(x) - 1]).ToList();
+                gang.dishwahers[i].epsteinQueue = (Console.ReadLine() ?? "").Split(" ").Select(x => gang.men[Convert.ToInt32(x) - 1]).ToList();
 
             for (int i = 0; i < numDiddlers; i++)
-                gang.men[i].epsteinList = (Console.ReadLine() ?? "").Split(" ").Select(x => gang.dishwahers[Convert.ToInt32(x) - 1]).ToList();
+                gang.men[i].epsteinQueue = (Console.ReadLine() ?? "").Split(" ").Select(x => gang.dishwahers[Convert.ToInt32(x) - 1]).ToList();
 
             return gang;
         }
