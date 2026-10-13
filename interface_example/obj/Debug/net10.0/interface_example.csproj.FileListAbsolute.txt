@@ -1,0 +1,15 @@
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.AssemblyInfoInputs.cache
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.AssemblyInfo.cs
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.csproj.CoreCompileInputs.cache
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.sourcelink.json
+/home/rosta/doppler/seminar_repo/interface_example/bin/Debug/net10.0/interface_example
+/home/rosta/doppler/seminar_repo/interface_example/bin/Debug/net10.0/interface_example.deps.json
+/home/rosta/doppler/seminar_repo/interface_example/bin/Debug/net10.0/interface_example.runtimeconfig.json
+/home/rosta/doppler/seminar_repo/interface_example/bin/Debug/net10.0/interface_example.dll
+/home/rosta/doppler/seminar_repo/interface_example/bin/Debug/net10.0/interface_example.pdb
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.dll
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/refint/interface_example.dll
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.pdb
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/interface_example.genruntimeconfig.cache
+/home/rosta/doppler/seminar_repo/interface_example/obj/Debug/net10.0/ref/interface_example.dll
